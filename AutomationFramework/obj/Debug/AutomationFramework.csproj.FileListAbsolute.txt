@@ -1,0 +1,3 @@
+D:\Study video on MVC\AutomationFramework\obj\Debug\AutomationFramework.FrameworkSettings.resources
+D:\Study video on MVC\AutomationFramework\obj\Debug\AutomationFramework.KendoWrapper.Scripts.resources
+D:\Study video on MVC\AutomationFramework\obj\Debug\AutomationFramework.csproj.GenerateResource.Cache

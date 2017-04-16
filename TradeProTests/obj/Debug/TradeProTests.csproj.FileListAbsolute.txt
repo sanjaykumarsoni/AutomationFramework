@@ -1,0 +1,71 @@
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\obj\Debug\TradeProTests.csprojResolveAssemblyReference.cache
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\obj\Debug\TradeProTests.AutomationSetting.resources
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\obj\Debug\TradeProTests.csproj.GenerateResource.Cache
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\app.config
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\TestDataAccess\InitialSetup.config
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\TradeProTests.dll.config
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\TradeProTests.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\TradeProTests.pdb
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\AutomationFramework.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Dapper.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Excel.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\LinqToExcel.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\log4net.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\nunit.framework.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.Data.Linq.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.Interfaces.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.Linq.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\WebDriver.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\WebDriver.Support.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Mono.Cecil.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Newtonsoft.Json.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\EPPlus.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\AutomationFramework.pdb
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Dapper.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Excel.pdb
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\LinqToExcel.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\log4net.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\nunit.framework.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Remotion.Linq.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\WebDriver.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\WebDriver.Support.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\Newtonsoft.Json.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\bin\Debug\EPPlus.xml
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\obj\Debug\TradeProTests.dll
+C:\Development\SanjayKumar\TradePro 7.6 UI\TradeProTests\obj\Debug\TradeProTests.pdb
+D:\Study video on MVC\TradeProTests\bin\Debug\app.config
+D:\Study video on MVC\TradeProTests\bin\Debug\TestDataAccess\InitialSetup.config
+D:\Study video on MVC\TradeProTests\bin\Debug\TradeProTests.dll.config
+D:\Study video on MVC\TradeProTests\bin\Debug\TradeProTests.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\TradeProTests.pdb
+D:\Study video on MVC\TradeProTests\bin\Debug\AutomationFramework.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\Mono.Cecil.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\Newtonsoft.Json.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\EPPlus.dll
+D:\Study video on MVC\TradeProTests\bin\Debug\AutomationFramework.pdb
+D:\Study video on MVC\TradeProTests\bin\Debug\Dapper.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\Excel.pdb
+D:\Study video on MVC\TradeProTests\bin\Debug\LinqToExcel.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\log4net.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Study video on MVC\TradeProTests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\nunit.framework.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\Remotion.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\Remotion.Linq.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\WebDriver.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\WebDriver.Support.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\Newtonsoft.Json.xml
+D:\Study video on MVC\TradeProTests\bin\Debug\EPPlus.xml
+D:\Study video on MVC\TradeProTests\obj\Debug\TradeProTests.csprojResolveAssemblyReference.cache
+D:\Study video on MVC\TradeProTests\obj\Debug\TradeProTests.AutomationSetting.resources
+D:\Study video on MVC\TradeProTests\obj\Debug\TradeProTests.csproj.GenerateResource.Cache
+D:\Study video on MVC\TradeProTests\obj\Debug\TradeProTests.dll
+D:\Study video on MVC\TradeProTests\obj\Debug\TradeProTests.pdb
